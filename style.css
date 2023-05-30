@@ -96,3 +96,11 @@ body{
 .header p a{
     text-decoration: dotted;
 }
+hr{
+    width: 85%;
+}
+span{
+    margin-top: -18px;
+    background-color: white;
+    padding: 8px;
+}
